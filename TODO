@@ -1,0 +1,5 @@
+Finish unit testing: gui & server
+Add lyrics gui & server: https://stackoverflow.com/questions/17165228/how-to-get-lyrics-from-musixmatch
+Add movie folder in gui & server: Movie folder that can be linked to different network sources
+Add movie bookmarks gui & server: Bookmarks to movies when played from network sources
+Add for mobile: spotify like graphics notification across the screen
